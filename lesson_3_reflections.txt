@@ -1,7 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    A remote repository is extremely helpful when working in teams. People can access
+    each others work and keep on working even when not connected to the internet.
+    Also, even when working alone, a remote repository is a nice way to backup
+    the work done. Certain git repository hosting services such as Github,
+    Gitlab and Bitbucket offer a nice UI to manage and visualize the
+    repository and the overall project.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
