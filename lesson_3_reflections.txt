@@ -11,7 +11,18 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Git when used locally doesn't use the internet. We can continue adding
+    our changes to the repo even when we're offline. This can mean that
+    the changes can get more and more significant with each commit.
+    If Git is set to automatically stay up-to-date with the remote
+    repository, it is very much possible that conflicts in files
+    will be encountered. When we're trying to solve a particular
+    problem, we would want our entire attention on the problem.
+    Having a constant distraction and fear of conflicts within
+    files automatically synced by git, would mean lesser
+    productivity. Git would then become an enemy of the
+    programmers instead of a friend which is currently
+    is.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
