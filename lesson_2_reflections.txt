@@ -44,7 +44,7 @@ the diagram the way we do?
   it was merged. This commit has reference to last commits in both the branches.
   This way, the commits in both the branches are accessible from the new commit.
   When we represent this by diagram, it allows us to understand at which point
-  the branches were created and˝ what commits have been added in the branches
+  the branches were created and what commits have been added in the branches
   before the merge happened.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
