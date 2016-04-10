@@ -60,4 +60,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Separate branch can be extremely useful when used to track features that are experimental
+    and can be tried and tested by other users before being merged into the the master/stable
+    branch. Having a branch allows others to view your changes, pull them down to their
+    local copy, test it and keep it as a reference for any changes they would want to
+    implement. Using just the master branch for all changes can lead to large number
+    of conflicts. In large teams, it would be beneficial to use forks or branches
+    to publish changes which can them be merged through pull requests.
