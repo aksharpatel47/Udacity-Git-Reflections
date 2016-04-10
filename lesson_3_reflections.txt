@@ -44,7 +44,11 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a local copy of the last known state, allows us to make a good guess
+    on whether the changes we're making will conflict once a merge is
+    implemented. It also allows us to see what the team has been
+    working on and the changes they implemented upto the last
+    known state without the internet.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
